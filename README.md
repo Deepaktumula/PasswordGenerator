@@ -10,7 +10,7 @@ Responsive design for various screen sizes.
 
 # Getting Started
 1) Clone the repository:
-git clone https://github.com/your-username/password-generator.git
+https://github.com/Deepaktumula/PasswordGenerator.git
 
 2) Navigate to the project directory:
 cd password-generator.
